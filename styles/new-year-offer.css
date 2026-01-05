@@ -10,6 +10,14 @@
   padding: 0px;
 }
 
+/* shared common style */
+.color-red{
+    color: #FF0000;
+}
+.center{
+    text-align: center;
+}
+
 .header {
   margin: 50px 140px;
 }
@@ -42,4 +50,28 @@
   font-size: 72px;
   font-weight: bold;
   color: #ffffff;
+}
+
+/* OFF section */
+.off-section{
+    height: 806px;
+    width: 802px;
+    margin: 120px 399px;
+}
+
+.off-section-title{
+    font-size: 86px;
+    font-weight: bold;
+    margin-bottom: 48px;
+}
+.off-section-container-subtitle{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.off-section-container-title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+    margin-bottom: 48px;
 }
