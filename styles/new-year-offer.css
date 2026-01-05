@@ -123,3 +123,47 @@
     font-weight: bold;
     border: none;
 }
+
+/* offer section start */
+
+.offer-section{
+  width: 1320px;
+  height: 463px;
+  align-items: center;
+  margin: 120px 140px;
+}
+.offer-content{
+  display: flex;
+  align-items: center;
+  gap: 60px;
+  
+}
+
+.best-offer-subtitle{
+  font-size: 24px;
+}
+.best-offer-title{
+  font-size: 48px;
+  font-weight: bold;
+  color: black;
+  margin: 10px 0px;
+}
+.best-offer-details{
+  font-size: 16px;
+  color: #070211;
+}
+
+.offer-logo{
+  border: 5px solid red;
+  border-radius: 210px;
+}
+
+.best-offer-two-title{
+  font-size: 48px;
+  font-weight: bold;
+}
+.best-offer-title-two-details{
+  font-size: 16px;
+  color: #070211;
+  margin:10px 0 20px 0;
+}
